@@ -121,7 +121,9 @@ window.DRILL_SETS = [
   { q:"その工場を訪れ、自動車が造られているのを見て、私達はその能率の良さに感銘を受けた。", a:"Visiting the factory and seeing cars made, we were impressed by its efficiency.", full:true }
 ]},
 
-  /* 出典：Science Journal for Kids（CC BY）の記事の英文を使用。日本語訳と区切りは独自。https://www.sciencejournalforkids.org/ */
+  /* 出典：「What if a Hummingbird Wears a Tiny Backpack?」Science Journal for Kids（2026, CC BY）。もとの論文：Sargent et al. (2026) Animal Biotelemetry。
+     https://www.sciencejournalforkids.org/wp-content/uploads/2026/08/hummingbird-backpacks_article.pdf
+     英文は記事のまま。日本語訳と区切りは独自。 */
   { title:"ハチドリ（出典：Science Journal for Kids）", items:[
   { q: "驚くべき生き物", a: "amazing creatures." },
   { q: "ハチドリは実に驚くべき生物である。", a: "Hummingbirds are amazing creatures.", full: true },
@@ -136,24 +138,24 @@ window.DRILL_SETS = [
   { q: "しかし同時に、ハチドリは極めて小型でもある。", a: "But hummingbirds are also very small.", full: true },
   { q: "ノドグロマンゴーハチドリは", a: "A Black-throated Mango hummingbird" },
   { q: "(それは)わずか約8グラムの重さしかない", a: "It weighs only about 8 grams." },
-  { q: "例えばノドグロマンゴーハチドリの体重はわずか約8グラム。", a: "A Black-throated Mango hummingbird weighs only about 8 grams.", full: true },
+  { q: "ノドグロマンゴーハチドリの体重は、わずか約8グラムしかない。", a: "A Black-throated Mango hummingbird weighs only about 8 grams.", full: true },
   { q: "砂糖小さじ2杯", a: "two teaspoons of sugar!" },
   { q: "砂糖小さじ2杯より少ない", a: "less than two teaspoons of sugar!" },
   { q: "これは砂糖小さじ2杯分にも満たない重さだ。", a: "That is less than two teaspoons of sugar!", full: true },
   { q: "ハチドリは食べることができる", a: "A hummingbird can eat" },
   { q: "自分の体重の3倍以上", a: "more than three times its own body weight" },
   { q: "ハチドリは自分の体重の3倍以上を食べることができる", a: "A hummingbird can eat more than three times its own body weight" },
-  { q: "蜜で、毎日", a: "in nectar each day" },
-  { q: "ただ動き続けるために", a: "just to keep moving." },
-  { q: "ただ動き続けるために、毎日蜜で", a: "in nectar each day just to keep moving." },
-  { q: "ハチドリは1日に自身の体重の3倍以上に相当する量の蜜を摂取しなければ、ただ生きるだけでもエネルギーが不足してしまう。", a: "A hummingbird can eat more than three times its own body weight in nectar each day just to keep moving.", full: true },
+  { q: "毎日、蜜として", a: "in nectar each day" },
+  { q: "ただ動き続けるためだけに", a: "just to keep moving." },
+  { q: "ただ動き続けるためだけに、毎日蜜として", a: "in nectar each day just to keep moving." },
+  { q: "ハチドリは、ただ動き続けるためだけに、毎日自分の体重の3倍以上の蜜を食べることができる。", a: "A hummingbird can eat more than three times its own body weight in nectar each day just to keep moving.", full: true },
   { q: "彼らは速く動く", a: "they move fast!" },
-  { q: "そしてその動きは驚くほど速い！", a: "And they move fast!", full: true },
+  { q: "そして、彼らは動きが速い！", a: "And they move fast!", full: true },
   { q: "私たちは知っている", a: "We know" },
-  { q: "(彼らは)時速31マイルまで達することができる", a: "they can reach up to 31 miles per hour" },
-  { q: "前進飛行で", a: "in forward flight." },
-  { q: "前進飛行で時速31マイルまで達することができる", a: "they can reach up to 31 miles per hour in forward flight." },
-  { q: "前進飛行時には時速31マイル（約49キロメートル）に達することが確認されている。", a: "We know they can reach up to 31 miles per hour in forward flight.", full: true }
+  { q: "彼らは時速31マイルまで出せる", a: "they can reach up to 31 miles per hour" },
+  { q: "前に飛ぶとき", a: "in forward flight." },
+  { q: "前に飛ぶとき、時速31マイルまで出せる", a: "they can reach up to 31 miles per hour in forward flight." },
+  { q: "ハチドリは前に飛ぶとき、時速31マイル（約50キロ）まで出せることがわかっている。", a: "We know they can reach up to 31 miles per hour in forward flight.", full: true }
 ]},
 
   // ▲ ここより上に追加
